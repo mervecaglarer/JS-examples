@@ -1,4 +1,4 @@
-# Type a Ciity or Region
+# Type a City or Region
 
 ### Open the index.html page.
 ![Ekran Görüntüsü (122)](https://user-images.githubusercontent.com/48553941/96333700-2355ac00-1074-11eb-8201-01fb114a5c97.png)
